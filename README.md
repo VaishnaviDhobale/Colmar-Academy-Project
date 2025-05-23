@@ -20,7 +20,15 @@ ColmarAcademy/
 ```
 
 ## 📸 Screenshots
+![](./resourses/assets/images/img1.jpeg)
+![](./resourses/assets/images/img2.jpeg)
+![](./resourses/assets/images/img3.jpeg)
+![](./resourses/assets/images/img4.jpeg)
 
+## Responsive
+![](./resourses/assets/images/res1.jpeg)
+![](./resourses/assets/images/res2.jpeg)
+![](./resourses/assets/images/res2.jpeg)
 
 ## 💡 Features
 
