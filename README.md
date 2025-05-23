@@ -4,7 +4,7 @@ A responsive and modern educational landing page built using HTML and CSS. This 
 
 ## 🌐 Live Preview
 
-> *(Add your deployment URL here if hosted, e.g., GitHub Pages, Netlify, Vercel)*
+[https://vaishnavidhobale.github.io/Colmar-Academy-Project/]
 
 ## 📁 Project Structure
 
@@ -21,8 +21,6 @@ ColmarAcademy/
 
 ## 📸 Screenshots
 
-### Desktop View
-[https://vaishnavidhobale.github.io/Colmar-Academy-Project/]
 
 ## 💡 Features
 
