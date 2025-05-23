@@ -8,7 +8,7 @@ A responsive and modern educational landing page built using HTML and CSS. This 
 
 ## 📁 Project Structure
 
-'''
+```
 ColmarAcademy/
 ├── resourses/
 │ ├── assets/
@@ -17,15 +17,12 @@ ColmarAcademy/
 │ └── index.css
 ├── index.html
 └── README.md
-'''
+```
 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](./resourses/assets/images/banner.jpg)
-
-### Mobile View
-*(Add a screenshot of the mobile view if possible)*
+[https://vaishnavidhobale.github.io/Colmar-Academy-Project/]
 
 ## 💡 Features
 
